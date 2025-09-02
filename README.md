@@ -16,7 +16,5 @@ This repository contains Python code to create 3D mesh graphs using matplotlib a
 - seaborn
 - numpy
 
-Install required packages using pip if you don't have them:
+Install required packages using pip if you don't have them
 
-# 3D-meshgraph-python
-Python code to plot 3D mesh graphs using matplotlib and seaborn
